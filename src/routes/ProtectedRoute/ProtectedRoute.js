@@ -5,7 +5,7 @@ function ProtectedRoute({ component: Component, ...rest }) {
     const { location } = rest;
 
     const user = {
-        email: 'dp'
+        email: 'dip'
     }
 
     return (
